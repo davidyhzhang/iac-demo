@@ -1,3 +1,3 @@
-provider "aws" {
-  region = "ap-south-1"
+provider "google" {
+  region = "us-east4-d"
 }
